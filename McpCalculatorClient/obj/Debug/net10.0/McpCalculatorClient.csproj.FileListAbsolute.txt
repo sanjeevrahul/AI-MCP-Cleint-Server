@@ -1,0 +1,15 @@
+C:\McpCalculatorClient\bin\Debug\net10.0\McpCalculatorClient.exe
+C:\McpCalculatorClient\bin\Debug\net10.0\McpCalculatorClient.deps.json
+C:\McpCalculatorClient\bin\Debug\net10.0\McpCalculatorClient.runtimeconfig.json
+C:\McpCalculatorClient\bin\Debug\net10.0\McpCalculatorClient.dll
+C:\McpCalculatorClient\bin\Debug\net10.0\McpCalculatorClient.pdb
+C:\McpCalculatorClient\obj\Debug\net10.0\McpCalculatorClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\McpCalculatorClient\obj\Debug\net10.0\McpCalculatorClient.AssemblyInfoInputs.cache
+C:\McpCalculatorClient\obj\Debug\net10.0\McpCalculatorClient.AssemblyInfo.cs
+C:\McpCalculatorClient\obj\Debug\net10.0\McpCalculatorClient.csproj.CoreCompileInputs.cache
+C:\McpCalculatorClient\obj\Debug\net10.0\McpCalculatorClient.dll
+C:\McpCalculatorClient\obj\Debug\net10.0\refint\McpCalculatorClient.dll
+C:\McpCalculatorClient\obj\Debug\net10.0\McpCalculatorClient.pdb
+C:\McpCalculatorClient\obj\Debug\net10.0\McpCalculatorClient.genruntimeconfig.cache
+C:\McpCalculatorClient\obj\Debug\net10.0\ref\McpCalculatorClient.dll
+C:\McpCalculatorClient\obj\Debug\net10.0\McpCalculatorClient.csproj.AssemblyReference.cache
